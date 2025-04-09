@@ -1,0 +1,75 @@
+div {
+    display: block;
+  }
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+  }
+
+  li {
+    float: left;
+    width: 16.6%;
+  }
+
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: dimgray;
+    border-radius: 20px;
+  }
+
+  body {
+    margin: auto;
+  }
+
+  body {
+    background-color: dimgrey;
+  }
+
+  h2,
+  h4,
+  p {
+    text-align: center;
+  }
+
+  form {
+    text-align: center;
+  }
+
+  ul {
+
+    padding: auto;
+    border-radius: 20px;
+  }
+
+  li {
+    width: 10%;
+  }
+
+  .one {
+    float: left;
+  }
+
+  h2 {
+    color: aliceblue;
+  }
+
+  h4 {
+    color: aliceblue;
+  }
+
+  p {
+    color: aliceblue;
+    display: block;
+  }
